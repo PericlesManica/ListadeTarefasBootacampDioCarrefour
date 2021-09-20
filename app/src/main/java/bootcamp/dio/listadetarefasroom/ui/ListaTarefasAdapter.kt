@@ -27,6 +27,7 @@ class ListaTarefasAdapter(listaTarefaEvento: ListaTarefaEvento) : RecyclerView.A
     }
 
     class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+
         fun bind(listaTarefas: ListaTarefas, listener: ListaTarefaEvento) {
             itemView.tv_title.text = listaTarefas.titulo
             itemView.tv_date.text = listaTarefas.data

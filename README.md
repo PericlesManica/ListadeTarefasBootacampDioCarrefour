@@ -21,18 +21,22 @@
 ## Funcionalidades
 
 - Adicionar tarefa
+
 - Editar tarefa
+
 - Excluir tarefa
 
-## <br />Layout
+  
+
+## Layout
+
+![img](https://github.com/PericlesManica/ListadeTarefasBootacampDioCarrefour/blob/master/Telas_app.png)
 
 
 
 ## Aluno
 
-​	Péricles Manica (40+), aprendendo uma liguagem nova, iniciando a carreira como dev e procurando uma colocação no mercado de trabalho.
+​	Péricles Manica, Analista de Sistemas, aprendendo uma liguagem nova e procurando uma colocação no mercado de trabalho.
 
  [![Gmail Badge](https://img.shields.io/badge/-manicap@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manicap@gmail.com)](mailto:manicap@gmail.com)
-
-## <br />
 
