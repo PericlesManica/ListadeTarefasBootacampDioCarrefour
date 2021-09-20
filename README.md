@@ -32,7 +32,6 @@
 
 ![img](https://github.com/PericlesManica/ListadeTarefasBootacampDioCarrefour/blob/master/Telas_app.png)
 
-https://github.com/PericlesManica/ListadeTarefasBootacampDioCarrefour/blob/master/Telas_app.png
 
 
 ## Aluno
